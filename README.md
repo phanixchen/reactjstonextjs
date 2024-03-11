@@ -1,7 +1,7 @@
 # reactjstonextjs
-sample project to migrate reactjs to nextjs
+sample project to migrate reactjs to nextjs and add Server side rendering
 
-* check /src/pages/Contact.tsx and /src/pages/Contact1.tsx
+* For server side rendering, please check /src/pages/Contact.tsx and /src/pages/Contact1.tsx
 
 # Steps to migrate react.js to next.js
 1. > npm install next@latest --force
